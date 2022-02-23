@@ -1,5 +1,6 @@
-# day-2
-Hooks lifecycle (II), routing with RRD v6, Context API
+# Week 7 day 3
+
+> Hooks lifecycle (II), routing with RRD v6, Context API
 
 ## Hooks lifecycle
 Es posible asociar un efecto a cada una de las fases del ciclo de vida de un componente a través del hook `useEffect()`:
